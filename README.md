@@ -12,6 +12,8 @@
 
 
 ## Backstory
+It started in 2020. My apartment building which normally had an elaborate trick-or-treating setup had been reduced to a few tables outside in the shared garden. I saw these people in the suburbs testing out these long tubes from their porches to the front yard for a socially distanced candy experience. From that, I got an idea. What if I just had to sit there and the candy dispensed itself? Obviously, this isn’t a unique idea, vending machines have probably existed since the middle ages or something, but I thought it would be a fun simple project.
+
 ## Constraints
 ## Super Bowl
 ## Next Robot
