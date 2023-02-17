@@ -33,7 +33,9 @@ It worked fairly well. About as well as a cardboard and hot glue robot designed 
 
 After Halloween night I was able to connect the esp32 to my phone over bluetooth, allowing me to remotely open the bowl without having to stand up, all by clicking a button. It was pretty cool.
 
-![working]("https://raw.githubusercontent.com/SantiagoVira/Halloween-Robots/main/SuperBowl/SuperBowl-Demo.jpg")
+[![working](/SuperBowl/SuperBowl-Demo.jpg)](/SuperBowl/SuperBowl-Demonstration.mp4)
+
+In this image (screenshot from a video linked [here](/SuperBowl/SuperBowl-Demonstration.mp4)), Super Bowl (top left) drops candy down the tube and through the ghost where it turns into the red blur (bottom right).
 
 ## Next Robot
 ## What Happened
