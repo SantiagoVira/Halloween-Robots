@@ -41,6 +41,7 @@ In this image (screenshot from a video linked [here](/SuperBowl/SuperBowl-Demons
 I can't think of a good name. My bad. Anyway, this one sucked. The main body was a large cardboard box. On the inside was 3 walls tilted towards an opening in one of the sides. Under the opening, an ultrasonic sensor was used to detect distance. When something came close, it would trigger 2 servos connected to pieces of carboard to turn and reveal the opening. It went really bad.
 
 ## What Happened With the Robots
-it clogged
+Remember the part about the candy getting stuck? That was the main problem. My goal was to be able to haphazardly pour in giant amounts of different shaped candy and have them dispense. The candies got stuck. They clogged the hole and couldn't pour out.
+
 ## Solutions
 ## Design Plans
