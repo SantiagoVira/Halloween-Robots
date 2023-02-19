@@ -44,4 +44,8 @@ I can't think of a good name. My bad. Anyway, this one sucked. The main body was
 Remember the part about the candy getting stuck? That was the main problem. My goal was to be able to haphazardly pour in giant amounts of different shaped candy and have them dispense. The candies got stuck. They clogged the hole and couldn't pour out.
 
 ## Solutions
+- Some form of stirring stick or maybe a motor to shake the hopper, something to disturb the candy and free up any clogs.
+- A non-closed opening. Having no top to the hole that the candy goes through would hopefully allow for an easier dispensing and make it harder to get clogged.
+
 ## Design Plans
+Although i don't have any current plans to make another iteration of this robot, I made this repository in the event that I or anyone wants to make an ultimate candy dispenser-matron-thingy.
